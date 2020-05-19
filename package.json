@@ -1,0 +1,8 @@
+{
+  "name": "SemanaOmniStack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PhlpBrt/SemanaOmniStack.git",
+  "author": "Philipe Brito <38106689+PhlpBrt@users.noreply.github.com>",
+  "license": "MIT"
+}
